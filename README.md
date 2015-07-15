@@ -25,6 +25,10 @@ https://github.com/ramrexx/CloudFormsPOC/wiki#service-dialogs-importing-the-clou
 
 Contains sample dialogs to help get you started.
 
+Notes
+=====
+This is a test repository
+
 
 Control
 =======
